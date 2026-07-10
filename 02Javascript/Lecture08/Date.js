@@ -22,8 +22,11 @@
 // // Timestamp: Millisecond: 1781193215767
 // console.log(now);
 
-// const da = new Date(500000090000);
+// const da = new Date(50000000090000);
 // console.log(da);
+// console.log(typeof da);
+// To new Date() us timestamp ko actual date aur time me convert kar deta hai.
+// Timestamp ko readable date me convert karne ke liye.
 
 // timestamp // millisecond: number store
 // const now = Date.now();
@@ -32,7 +35,7 @@
 // console.log(now);
 
 
-// / new Date(year, month, day, hours, minutes, seconds, ms)
+ // new Date(year, month, date, hours, minutes, seconds, ms)
 // const myDate = new Date(2026, 8, 4, 6, 20, 11, 125);
 
 // console.log(myDate);

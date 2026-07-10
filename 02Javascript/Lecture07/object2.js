@@ -17,15 +17,16 @@ const customer = {
 // 
 
 // const {age: ageName, value: valueName} = customer;
+// spread operator in objects
 
 // console.log(ageName,valueName);
 
-// const customer2 = {...customer};
+// const customer2 = {...customer}; 
 // customer2.name = "Mohan",
 // customer2.address.pincode = 2;
 // customer2.arr.push(54);
 // console.log(customer);
-
+// ab object v primitive data type ki tarah unko seoarate copy milne laga
 
 // const customer2 = structuredClone(customer);
 

@@ -5,7 +5,7 @@
 //     amount: 90
 // }
 
-// string ke form mein store hoti hai
+// keys string ke form mein store hoti hai
 
 // {
 //   "name": "rohit",
@@ -98,10 +98,10 @@
 
 
 // const customerkeys = Object.keys(customer);
-// // console.log(customerkeys);
-// // key = "name"
+// console.log(customerkeys);
+//  // key = "name"
 // for(const key of customerkeys){
-//     console.log(key, customer[key] );
+//     console.log(key , ":" , customer[key] );
 // }
 
 
