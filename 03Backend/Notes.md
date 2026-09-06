@@ -20,3 +20,30 @@ Lecture13: https://app.notion.com/p/Lecture13-Authentication-and-bcrypt-3a7a9af8
 Lecture15: https://app.notion.com/p/Lecture-15-Project-Building-3aaa9af81c988068bc1df83f04e67070?source=copy_link
 
 Lecture16: https://app.notion.com/p/Lecture16-Chatgpt-Project-continue-3aba9af81c98806a9b82db0c37b949d5?source=copy_link
+
+Lecture 17,18,19: https://app.notion.com/p/Lecture-17-Zod-and-validator-3ada9af81c98800b9182fb5da79d4d86?source=copy_link
+
+
+Lecture 20: https://app.notion.com/p/Lecture20-Integrating-AI-3b1a9af81c98803e8c40f513f2f8aa99?source=copy_link
+
+Lecture21: https://app.notion.com/p/Lecture-21-Code-3b5a9af81c9880ea9b2aefc7d852ed21?source=copy_link
+
+https://app.notion.com/p/Lecture23-Scaling-the-system-3b9a9af81c98804bb2bdd03f3fa242e8?source=copy_link
+
+Lecture26: https://app.notion.com/p/Lecture-26-Consistent-Hashing-3bfa9af81c98804dbf12c4f5979441a8?source=copy_link
+
+Lecture27: https://app.notion.com/p/Lecture-27-CAP-Theorem-3c0a9af81c9880f4a2eee54f855e04e8?source=copy_link
+
+https://app.notion.com/p/Lecture-28-Hot-Partition-in-Databases-3c2a9af81c9880ddb296cc0115373976?source=copy_link
+
+https://app.notion.com/p/Lecture29-Elastic-Search-and-Bloom-filter-3c4a9af81c98800a8dc9f4abb108c884?source=copy_link
+
+Lecture30: https://app.notion.com/p/Lecture-30-Redis-3c6a9af81c9880a28064cc9d6b927a89?source=copy_link
+
+https://app.notion.com/p/Lecture-31-Implement-Rate-Limiter-3c8a9af81c9880ce9183c83a60520d2c?source=copy_link
+
+https://app.notion.com/p/Lecture-32-Message-Queue-First-Thought-Principle-3cea9af81c9880768214f9b4f9f694d5?source=copy_link
+
+https://app.notion.com/p/Lecture-33-Kafka-322a9af81c9880adb7e2e6cef434db04?source=copy_link
+
+https://app.notion.com/p/Lecture-34-Caching-and-Distributed-Systems-3d1a9af81c9880709466e87ee0b1f341?source=copy_link
